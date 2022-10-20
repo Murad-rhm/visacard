@@ -1,4 +1,3 @@
-apt install vim
 import random,os,sys,requests
 Ba = 0
 os.system("clear")
