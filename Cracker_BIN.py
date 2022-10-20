@@ -46,7 +46,7 @@ if bw == '1':
 		  	g = res['country']['currency']
 		  	u = v
 		  	p = k +' '+z
-		  	tlg = print(f)
+		  	tlg = print(f'''https://api.telegram.org/bot{tok}/sendMessage?chat_id={id}&text=®
  HI ,
  
  NEW LIVE✅ BIN 
